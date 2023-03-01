@@ -1,0 +1,5 @@
+build
+3ds-dvd-video.*
+.vs
+.DS_Store
+romfs/
